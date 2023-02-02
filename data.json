@@ -1,0 +1,74 @@
+[{
+    "analogie": "un pays",
+    "valeuranalogies": " l'Islande",
+    "justify": "C'est un pays que j'adore depuis plusieurs années. On peut y admirer de nombreux paysages différents, tous plus beaux les uns que les autres: des volcans, des glaciers, des geysers, etc... J'aimerais beaucoup le visiter un jour, notamment en hiver, afin de contempler des aurores boréales.",
+    "imagefond": "images/Fond noir.jpg",
+    "classe": "Pays",
+    "alt": "Une image représentant des montagnes avec des aurores boréales",
+    "img": "images/Islande.jpg",
+    "classeimg": "islande"
+    
+},
+{
+    "analogie": "un fruit",
+    "valeuranalogies": " une mirabelle",
+    "justify": "La mirabelle est originaire de Lorraine, comme moi! C'est un fruit que j'adore. Lorsque j'étais enfant, j'allais subtiliser des mirabelles chez les voisins et sur le mirabellier de ma grand-mère. J'ai toujours aimé son côté très sucré. Elle se mange crue ou cuite, en tarte ou avec du poulet dans un plat sucré salé. C'est délicieux!",
+    "imagefond": "images/Fond doré.jpg",
+    "classe": "Fruit",
+    "alt": "Une image représentant des mirabelles",
+    "img": "images/Mirabelle.jpg",
+    "classeimg": "mirabelle"
+    
+},
+{
+    "analogie": "un objet",
+    "valeuranalogies": " un livre",
+    "justify": "La lecture m'a permis de mieux comprendre le monde et d'en apprendre beaucoup plus. Elle me permet aussi de me divertir, de m'évader et même de rêver. Je lis très souvent, c'est indispensable pour moi d'avoir un livre sous la main. Les livres m'ont égalemment permis d'améliorer mon orthographe et mon vocabulaire. ",
+    "imagefond": "images/Fond noir.jpg",
+    "classe": "Objet",
+    "alt": "Une image d'un livre",
+    "img": "images/Livre.jpg",
+    "classeimg": "livre"
+
+},
+{
+    "analogie": "une saison",
+    "valeuranalogies": " l'été",
+    "justify": "L'été, c'est les vacances entre amis ou en famille, au bord de la mer ou au bord de la piscine, avec le soleil qui brille. En été, le rythme de vie est plus détendu. Les journées sont plus longues permettant des moments conviviaux autour d'un verre et d'un barbecue en admirant le coucher du soleil.",
+    "imagefond":"images/Fond doré.jpg",
+    "classe": "Saison",
+    "alt": "Une image représentant le coucher de soleil avec un ciel bleu et une grande roue ",
+    "img": "images/été.jpg",
+    "classeimg": "été"
+},
+{
+    "analogie": "une voiture",
+    "valeuranalogies": " une <span class='M'>M</span>ustang ",
+    "justify": "La voiture de mes rêves est une Ford Mustang GT noire. Elle est magnifique et élégante tout en étant sportive. La marque Mustang est symbolisée par un cheval au galop synonyme de liberté et de vitesse comme la Mustang GT.",
+    "imagefond": "images/Fond noir.jpg",
+    "classe": "Voiture",
+    "alt": "Une image d'une Mustang GT noire",
+    "img": "images/Mustang.jpg",
+    "classeimg": "mustang"
+
+},
+{
+    "analogie": "une invention",
+    "valeuranalogies": " un lit",
+    "justify": "Le lit est une invention millénaire même si ses premières formes étaient très rudimentaires. Il n'a cessé d'être amélioré au cours du temps pour devenir 'The Place to be'! Selon les études réalisées, nous passons en moyenne 27 ans dans notre lit à dormir. Il se doit donc d'être confortable, douillet et accueillant.",
+    "imagefond": "images/Fond doré.jpg",
+    "classe": "Invention",
+    "alt": "Une image d'un lit",
+    "img": "images/Lit.jpg",
+    "classeimg": "lit"
+},
+{
+    "analogie": "un animal",
+    "valeuranalogies": " un gorille",
+    "justify": "Les gorilles sont les plus grands des hominoïdes. C'est l'animal le plus proche de l'Homme après le bonobo et le chimpanzé du point de vue génétique. J'adore cet animal, car il est protecteur et massif. Cependant, les gorilles sont des espèces en danger d'extinction en raison de la destruction de leur habitat et de la chasse illégale. Leur protection est donc fondamentale.",
+    "imagefond": "images/Fond noir.jpg",
+    "classe": "Animal",
+    "alt": "Une image représentant un gorille",
+    "img": "images/Gorille.jpg",
+    "classeimg": "gorille"
+}]
