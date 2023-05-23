@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "valeuranalogies": document.getElementById('valeuranalogie').value,
           "justify": document.getElementById('justify').value,
           "img": document.getElementById('images').value,
-          "imagefond": "images/Fond doré.jpg",
+          "imagefond": "images/Fonddore.jpg",
           "classe": "Animal"
         })
         ajouteanal(data);

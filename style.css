@@ -10,8 +10,6 @@
 
 html {    
     overflow-x: hidden;
-    max-width: 1280px;
-    min-width: 768px;
     height: 100%;
     scroll-snap-type: y mandatory;
     scroll-behavior: smooth;
@@ -31,10 +29,10 @@ body {
 h1{
     text-align: center;
     padding-top: 20px;
-
     animation-duration: 3s;
     animation-name: slidein;
 } 
+
 @keyframes slidein {
     from {
       margin-left: 100%;
@@ -542,7 +540,7 @@ header p{
 
 /*Fond de la page du formulaire*/
 .bgform{
-    background-image: url("images/Fond doré.jpg");
+    background-image: url("images/Fonddore.jpg");
     background-size: cover;
     position: relative;
     height: 100%;
